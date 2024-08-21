@@ -1,4 +1,4 @@
-# Spring Boot and Angular Java Application using database MySQL
+## Spring Boot and Angular Java Application using database MySQL
 
 * CRUD
 
