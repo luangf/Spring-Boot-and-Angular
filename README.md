@@ -11,3 +11,7 @@
 * Automated Tests on the back end: JUnit | Mockito
 
 * Testing Code Coverage with Jacoco
+
+* Layout with Material Design (MDB) / SweetAlert2
+
+* JWT and Spring Security
