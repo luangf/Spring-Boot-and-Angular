@@ -1,6 +1,6 @@
 ## Spring Boot and Angular Java Application using database MySQL
 
-* Project made in a youtube course
+* Project made in a youtube course. Car Management System.
 
 * The app folder is the back and the others are the front
 
