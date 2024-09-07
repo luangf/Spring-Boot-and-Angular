@@ -2,7 +2,7 @@
 
 * Car Management System.
 
-* The app folder is the back and the others are the front
+* The "app" folder is the back and the others are the front
 
 * CRUD
 
